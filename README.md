@@ -1,6 +1,10 @@
 # PlatformerNeat
 Uses the NEAT algorithm to evolve networks that can beat challenging platform levels.
 ![Screenshot](screenshot.jpg)
+
+### Video Example
+[https://www.youtube.com/watch?v=-eR63uJ9FYM](https://www.youtube.com/watch?v=-eR63uJ9FYM)
+[![Phased NEAT: Beetle Infestation](https://img.youtube.com/vi/-eR63uJ9FYM/0.jpg)](https://www.youtube.com/watch?v=-eR63uJ9FYM)
 ## Getting Started
 Create a project in your IDE and run Main.java to run the main application. Press 'F' to start evolving, '+' to evaluate a genome per frame, and 'T' to evaluate one generation per frame.
 
