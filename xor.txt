@@ -1,0 +1,18 @@
+popsize 200
+inputs 2
+outputs 1
+
+startinputdata
+0 0
+0 1
+1 0
+1 1
+endinputdata
+
+startoutputdata
+0
+1
+1
+0
+endoutputdata
+
